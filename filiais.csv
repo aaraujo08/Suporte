@@ -1,0 +1,4 @@
+Hostname,lat,long,quem_pode_atender
+Filial São Paulo,-23.5505,-46.6333,"Fornecedor A, Fornecedor B"
+Filial Rio de Janeiro,-22.9068,-43.1729,Fornecedor B
+Filial Belo Horizonte,-19.9167,-43.9345,"Fornecedor C, Fornecedor A"
