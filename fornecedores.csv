@@ -1,5 +1,6 @@
-Nome,Contato,Email,Região_de_atendimento
-Fornecedor A,(11) 1234-5678,a@fornecedor.com,SP
-Fornecedor B,(21) 9876-5432,b@fornecedor.com,RJ
-Fornecedor C,(31) 5555-6666,c@fornecedor.com,MG
-Fornecedor D,(41) 7777-8888,d@fornecedor.com,PR
+Nome;Contato;Email;Região_de_atendimento
+RF TELECOM;(11) 1234-5678;a@fornecedor.com;RJ
+ILINK;(21) 9876-5432;b@fornecedor.com;MG
+L2;(31) 5555-6666;c@fornecedor.com;SP
+QMC;(41) 7777-8888;d@fornecedor.com;SP
+RSL;(41) 7777-8888;d@fornecedor.com;RS
